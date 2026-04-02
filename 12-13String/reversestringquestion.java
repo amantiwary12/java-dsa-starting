@@ -12,18 +12,18 @@
 
 //     }
 // }
+ 
 
 
 
+public class reversestringquestion{
+    public static void main (String [] args){
+        StringBuilder str = new StringBuilder("yrawitnama");
+        str.reverse();
+        System.out.println(str);
 
-// public class reversestringquestion{
-//     public static void main (String [] args){
-//         StringBuilder str = new StringBuilder("yrawitnama");
-//         str.reverse();
-//         System.out.println(str);
-
-//     }
-// }
+    }
+}
 
 
 
